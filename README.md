@@ -15,6 +15,6 @@
 <details>
 <summary>2022.11</summary>
 <div markdown="1">
-추가 예정
+[221117 근황 및 계획](https://github.com/waveinyu/TIL/blob/main/2022-11-17.md)
 </div>
 </details>
