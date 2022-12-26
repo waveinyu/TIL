@@ -8,6 +8,7 @@
 [221206 의문의 넥스트](https://github.com/waveinyu/TIL/blob/main/2022-12-06.md)<br>
 [221207 0레벨과 나](https://github.com/waveinyu/TIL/blob/main/2022-12-07.md)<br>
 [221208 복기의 중요성](https://github.com/waveinyu/TIL/blob/main/2022-12-08.md)<br>
+[221226 드디어 주니어](https://github.com/waveinyu/TIL/blob/main/2022-12-26.md)<br>
 
 </div>
 </details>
