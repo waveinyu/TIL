@@ -1,5 +1,7 @@
 ### TIL을 가장한 개발 일기
 
+요기는 회사 !
+
 <details>
 <summary>2022.12</summary>
 <div markdown="1">
