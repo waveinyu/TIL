@@ -5,6 +5,7 @@
 <div markdown="1">
 
 [230109 새해와 근황](https://github.com/waveinyu/TIL/blob/main/2023-01-09.md)<br>
+[230113 mysql2/promise, transaction](https://github.com/waveinyu/TIL/blob/main/2023-01-13.md)<br>
 
 </div>
 <details>
