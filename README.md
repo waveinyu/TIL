@@ -5,6 +5,7 @@
 <div markdown="1">
 
 [230109 새해와 근황](https://github.com/waveinyu/TIL/blob/main/2023-01-09.md)<br>
+[230116 기준](https://github.com/waveinyu/TIL/blob/main/2023-01-16.md)<br>
 
 </div>
 <details>
