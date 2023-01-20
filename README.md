@@ -1,4 +1,4 @@
-### TIL을 가장한 개발 일기
+### TIL을 가장한 날것의 개발 일기
 
 <details>
 <summary>2023</summary>
