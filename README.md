@@ -9,6 +9,8 @@
 [230113 mysql2/promise, transaction](https://github.com/waveinyu/TIL/blob/main/2023/2023-01-13.md)<br>
 [230116 스키마](https://github.com/waveinyu/TIL/blob/main/2023/2023-01-16.md)<br>
 [230118 백슬래시 두 번 찍힐 때](https://github.com/waveinyu/TIL/blob/main/2023/2023-01-18.md)<br>
+[230120](https://github.com/waveinyu/TIL/blob/main/2023/2023-01-20.md)<br>
+[230124](https://github.com/waveinyu/TIL/blob/main/2023/2023-01-24.md)<br>
 
 </div>
 <details>
