@@ -12,6 +12,7 @@
 [230120](https://github.com/waveinyu/TIL/blob/main/2023/1/2023-01-20.md)<br>
 [230124](https://github.com/waveinyu/TIL/blob/main/2023/1/2023-01-24.md)<br>
 [230125 `return res.json()`과 `res.json()`](https://github.com/waveinyu/TIL/blob/main/2023/1/2023-01-25.md)<br>
+[230127](https://github.com/waveinyu/TIL/blob/main/2023/1/2023-01-27.md)<br>
 
 </div>
 <details>
